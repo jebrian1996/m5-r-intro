@@ -20,11 +20,11 @@ hometown <- "Seoul"
 
 my.name <- "Jooyoung Park"
 
-my.height <- "181cm"
+my.height <- 181 #centimeters
 
 puppies <- 1
 
-puppy.price <- 200
+puppy.price <- 200 #dollars
 
 total.cost <- puppies * puppy.price
 
