@@ -15,3 +15,19 @@
 # Create a boolean variable `too.expensive`, set to true if the cost is greater than $1,000
 
 # Create a variable `max.puppies`, which is the nuber of puppies you can afford for $1K.
+
+hometown <- "Seoul"
+
+my.name <- "Jooyoung Park"
+
+my.height <- "181cm"
+
+puppies <- 1
+
+puppy.price <- 200
+
+total.cost <- puppies * puppy.price
+
+too.expensive <- > 1000
+
+max.puppies <- 5
