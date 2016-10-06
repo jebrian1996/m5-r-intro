@@ -28,6 +28,6 @@ puppy.price <- 200
 
 total.cost <- puppies * puppy.price
 
-too.expensive <- > 1000
+too.expensive <- total.cost > 1000
 
-max.puppies <- 5
+max.puppies <- 1000/puppy.price
